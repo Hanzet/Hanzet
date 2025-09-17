@@ -29,26 +29,17 @@
 ## 🌐 Conéctate conmigo  
 
 <p align="center">
-  <a href="https://www.instagram.com/tu_usuario" target="_blank">
+  <a href="https://www.instagram.com/jona.___.orrego/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tu_usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/jonathan-orrego-montoya/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/tu_usuario" target="_blank">
+  <a href="https://x.com/HanzetCode" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="40"/>
   </a>
-</p>
-
----
-
-## 🎨 Estilo extra  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
